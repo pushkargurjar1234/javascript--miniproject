@@ -1,0 +1,22 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+.box h1{
+    height:2rem;
+    width:10rem;
+    background-color: #7fbcdb;
+}
+.box p{
+    height:2rem;
+    width:10rem;
+    background-color: #b9e28f;
+}
+
+#image{
+    width:100px;
+    height:200px;
+    
+}
